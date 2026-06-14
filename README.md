@@ -1,8 +1,6 @@
-# VIA Network Brandbook
+# Via Network Brandbook
 
-Brand assets and logo files for VIA Network.
-
-**Primary brand color:** `#FC6432`
+Brand assets and logo files for Via Network.
 
 ## Assets
 
