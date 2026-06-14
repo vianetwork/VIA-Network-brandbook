@@ -8,15 +8,18 @@ Brand assets and logo files for Via Network.
 
 | File | Background | Format |
 |------|------------|--------|
-| `via-logo-black.svg` / `.png` | Black | Square logo |
+| `via-logo-black.svg` / `.png` | Black | Square logo (white mark) |
+| `via-logo-white.svg` | White | Square logo (black mark) |
 | `via-logo-orange.svg` | Orange `#FC6432` | Square logo |
-| `via-mark.svg` | Transparent | Bare mark, no background |
+| `via-mark-black.svg` | Transparent | Bare black mark, no background |
+| `via-mark-white.svg` | Transparent | Bare white mark, no background |
 
 ### `banner/` — wide banner (7773×1547)
 
 | File | Background | Format |
 |------|------------|--------|
 | `via-banner-black.svg` / `.png` | Black | Wide banner |
+| `via-banner-white.svg` | White | Wide banner (black mark, for light backgrounds) |
 | `via-banner-orange.svg` | Orange `#FC6432` | Wide banner |
 
 ## Naming convention
