@@ -6,7 +6,7 @@
 
 <strong>Logos, marks, and brand assets for Via Network.</strong>
 
-<em>The single source of truth for the Via wordmark, symbol, and their correct usage.</em>
+<em>The Via wordmark and symbol — and how to use them correctly.</em>
 
 <br />
 <br />
